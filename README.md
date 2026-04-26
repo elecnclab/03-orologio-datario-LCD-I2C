@@ -61,12 +61,16 @@ Video demo: https://youtu.be/ws_6DP3VXj8
 
 ## Struttura repository
 
+- `.github/`
 - `firmware/03-orologio-datario-LCD-I2C/03-orologio-datario-LCD-I2C.ino`
+- `docs/bom/`
 - `docs/schemi/`
 - `docs/note-tecniche/`
 - `media/foto/`
 - `media/github-images/`
 - `hardware/stl/`
+- `CHANGELOG.md`
+- `VERSION`
 
 ## Compilazione e upload
 
