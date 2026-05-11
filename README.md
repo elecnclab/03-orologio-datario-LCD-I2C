@@ -72,6 +72,16 @@ Video demo: https://youtu.be/ws_6DP3VXj8
 - `CHANGELOG.md`
 - `VERSION`
 
+## Media
+
+- Foto progetto: `media/foto/miniatura-1.png`, `media/foto/miniatura-2.png`
+- Immagini per README/GitHub: `media/github-images/`
+
+## File STL
+
+- `hardware/stl/base-orologio.stl`
+- `hardware/stl/front-orologio.stl`
+
 ## Compilazione e upload
 
 1. Apri lo sketch in Arduino IDE:
